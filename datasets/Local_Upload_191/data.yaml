@@ -1,0 +1,5 @@
+names:
+- class_0
+nc: 1
+train: C:/Users/ASUS/Downloads/FYP/pcb_inspection_system/datasets/Local_Upload_191/images/train
+val: C:/Users/ASUS/Downloads/FYP/pcb_inspection_system/datasets/Local_Upload_191/images/val

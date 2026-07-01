@@ -1,0 +1,10 @@
+names:
+- missing_hole
+- mouse_bite
+- open_circuit
+- short
+- spur
+- spurious_copper
+nc: 6
+train: C:/Users/ASUS/Downloads/FYP/pcb_inspection_system/datasets/Dataset_V222/images/train
+val: C:/Users/ASUS/Downloads/FYP/pcb_inspection_system/datasets/Dataset_V222/images/val
